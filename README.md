@@ -1,3 +1,3 @@
 My Portfolio
 
-Link--> https://shrabya35.github.io/portfolio.github.io
+Link--> https://shrabya35.github.io/portfolio
