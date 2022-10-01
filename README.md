@@ -1,3 +1,3 @@
 My Portfolio
 
-Link--> https://shrabya35.github.io/portfolio
+Link--> shrabyaghimire.com.np
